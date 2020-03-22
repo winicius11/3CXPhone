@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/23 00:08:59.000.447,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/05 01:59:16.000.841,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/05 23:36:03.000.687,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/06 14:33:50.000.932,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/22 14:49:01.656,=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/22 14:49:28.166,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\SIP 3CX Config\Unit1.dfm=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/22 14:49:28.166,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\SIP 3CX Config\Unit1.pas=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/22 14:49:52.526,C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\SIP 3CX Config\SIPConfig.dproj=C:\Users\Winicius\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
